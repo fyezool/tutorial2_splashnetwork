@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_main.jpg.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-hdpi/bg_main.jpg"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-hdpi_wwe_logo.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-hdpi/wwe_logo.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-hdpi_wwe_logo_1.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-hdpi/wwe_logo_1.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/drawable-hdpi_gradient_background.xml.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/drawable-hdpi/gradient_background.xml"
+    },
+    {
+        "merged": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/fyezool/AndroidStudioProjects/AndroidSplashScreenNetwork1/app/src/main/res/menu/main.xml"
+    }
+]
